@@ -17,17 +17,17 @@ https://habataki-blog.com/laravel-artisan-vscode-extensions/
 
 # 2. Docker 環境で使うための設定
 
-2-1. まずは拡張機能をインストールして設定を開く
+#### 2-1. まずは拡張機能をインストールして設定を開く
 
 ![](https://storage.googleapis.com/zenn-user-upload/a54e3d6125d7-20230108.png)
 
-2-2. Docker で実行するのでチェックを入れる
+#### 2-2. Docker で実行するのでチェックを入れる
 
 ![](https://storage.googleapis.com/zenn-user-upload/131b973d2fab-20230108.png)
 
-2-3. Artisan コマンドを実行するコンテナを起動するコマンドをかく
+#### 2-3. Artisan コマンドを実行するコンテナを起動するコマンドを入力
 
-`app`というサービス名のアプリケーションコンテナで、Artisan コマンドを実行するのでこのような書き方をしてます。`app`の部分は自分の環境に合わせて変えます。
+`app`というサービス名のアプリケーションコンテナで Artisan コマンドを実行するのでこのような書き方をしてます。`app`の部分は自分の環境に合わせて変えます。
 
 ![](https://storage.googleapis.com/zenn-user-upload/205f88834f22-20230108.png)
 
