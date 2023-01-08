@@ -1,8 +1,8 @@
 ---
-title: "Laravel Artisan【拡張機能】をDocker環境で使う"
+title: "Laravel Artisan[拡張機能]をDocker環境で使う"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [laravel]
+topics: ["laravel"]
 published: true
 ---
 
